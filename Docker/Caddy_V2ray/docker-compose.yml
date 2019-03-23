@@ -22,7 +22,7 @@ services:
         max-file: "3"
 
  caddy:
-    image: rico93/v2ray_v3:caddy
+    image:  ximliu/v2raycore:caddy
     restart: always
     environment:
       - ACME_AGREE=true
