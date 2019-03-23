@@ -3,9 +3,9 @@ package webapi
 import (
 	"fmt"
 	"github.com/imroc/req"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/model"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/speedtest"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/utility"
+	"github.com/ximliu/v2ray_v3/model"
+	"github.com/ximliu/v2ray_v3/speedtest"
+	"github.com/ximliu/v2ray_v3/utility"
 	"log"
 	"strconv"
 	"strings"
