@@ -3,8 +3,8 @@ package client
 import (
 	"context"
 	"fmt"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/model"
-	"github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/utility"
+	"github.com/ximliu/v2ray_v3/model"
+	"github.com/ximliu/v2ray_v3/utility"
 	"google.golang.org/grpc"
 	"strings"
 	"v2ray.com/core"
